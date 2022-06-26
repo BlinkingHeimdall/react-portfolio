@@ -86,7 +86,7 @@ const ContactForm = (props) => {
         {" "}
         <a
           target="_blank"
-          href="https://linkedin.com/"
+          href="https://linkedin.com/in/jason-adams-blinkingheimdall"
           rel="noreferrer"
         >
           LinkedIn 🔗

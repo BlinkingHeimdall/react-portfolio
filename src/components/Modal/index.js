@@ -1,7 +1,7 @@
 import React from "react";
 
 const Modal = ({ onClose, currentPhoto }) => {
-  const { name, description, caption, stack, role, github, deployment, index } =
+  const { name, description, caption, stack, github, deployment, index } =
     currentPhoto;
 
   return (
