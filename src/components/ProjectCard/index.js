@@ -3,60 +3,45 @@ import Modal from "../Modal/index";
 
 const ProjectCard = () => {
   const photos = [
+    //{
+    //   name: "Project 3",
+    //   description:
+    //     "",
+    //   stack:
+    //     "",
+    //   caption: "Regal ",
+    //   github: "https://github.com/BlinkingHeimdall/Regal",
+    //   deployment:
+    //     "",
+    // },
     {
-      name: "Name",
+      name: "Show-Pro",
       description:
-        "Welcome to SYNTAX! Hire, Connect & Collaborate in our world of coding!",
+        "A website that allows the user to search an artist which will present them with a list of upcoming events they can click to open a webpage to purchase tickets through. They will also be presented with information about the artist alongside these events including a picture and the artist's bio. Finally, a history of their searches will be preserved on their device so if they want to quickly revist a previously searched artist they can simply click on the relevent history link.",
       stack:
-        "ReactJS, MySelect-React, CSS, MongoDB Atlas, Debugging, Heroku Deployment",
-      role: "ReactJS, MySelect-React, CSS, Debugging",
-      caption: "SYNTAX",
-      github: "https://github.com/karmadog72/Syntax",
-      deployment: "https://syntax-uofu.herokuapp.com",
+        "Javascript, CSS, HTML, Bulma, JQuery. We also use 2 APIs: TheAudioDB and Seatgeek",
+      caption: "Show-Pro ",
+      github: "https://github.com/BlinkingHeimdall/show-pro",
+      deployment: "https://BlinkingHeimdall.github.io/show-pro/",
     },
     {
-      name: "AL-Together",
+      name: "J.A.R.V.I.S.",
       description:
-        "AL-Together helps people with memory loss navigate daily life, with use of our website",
-      stack:
-        "HTML CSS JavaScript and CSS library 'Bulma'. 'Jquery' was also used for a JavaScript library along side that, MomentJs was included to help with time. Finally we included 2 API's. 1 being a COVID API to keep the user updated with the current active cases in the US. The other API is a weather so that the user can have the ease of checking the weather on the landing page.",
-      role: "HTML, Bulma, MomentJs, COVID API . (Footer & Medication Schedule page)",
-      caption: "AL-Together ",
-      github: "https://github.com/karmadog72/AL-together",
-      deployment:
-        "https://lannylopez.github.io/AL-together/secondary-pages/meds.html",
-    },
-    {
-      name: "Allergy Finder",
-      description:
-        "A user-friendly allergen filtered grocery application created for those who struggle with finding grocery products excluding their allergies",
-      stack:
-        "Node, Express, Handlebars, MySQL, Rapid API-Spoonacular, Sequelize, Heroku.",
-      role: "Handlebars & CSS",
-      caption: "Allergy Finder ",
-      github: "https://github.com/karmadog72/Allergy-Finder",
-      deployment: "https://whispering-chamber-78611.herokuapp.com/",
-    },
-    {
-      name: "CMS Blog ",
-      description:
-        "A tech blog to publish articles, comment on / post thoughts, opinions and general information",
+        "An app used to input and track tasks that the average homeowner may need to do around the house.",
       stack:
         "Express-handlebars, MySQL2, Sequelize, dotenv, bcrypt, express-session, connect-session-sequelize, Heroku",
-      role: "Developed entire application",
-      caption: "CMS Blog",
-      github: "https://github.com/karmadog72/CMS-BLOG",
-      deployment: "https://murmuring-meadow-54235.herokuapp.com/",
+      caption: "J.A.R.V.I.S.",
+      github: "https://github.com/JMilner86/jarvis",
+      deployment: "https://mighty-tor-32004.herokuapp.com/",
     },
     {
       name: "Password Generator",
       description: "An app to help people generate a random password",
       stack: "Script.js, CSS, HTML",
-      role: "Developed entire application",
       caption: "Password Generator",
-      github: "https://github.com/karmadog72/JavaScript-Password-Challenge-",
+      github: "https://github.com/BlinkingHeimdall/Password-Generator",
       deployment:
-        "https://github.com/karmadog72/JavaScript-Password-Challenge-",
+        "https://blinkingheimdall.github.io/Password-Generator/",
     },
 
     {
@@ -64,9 +49,18 @@ const ProjectCard = () => {
       description: "My 1st ever web developer portfolio.",
       caption: "1st Portfolio",
       stack: "HTML, CSS",
-      role: "Developed entire application",
-      github: "https://github.com/karmadog72/portfolio-challenge-",
-      deployment: "https://karmadog72.github.io/portfolio-challenge-/",
+      github: "https://github.com/BlinkingHeimdall/Jason-Adams-Portfolio",
+      deployment: "https://blinkingheimdall.github.io/Jason-Adams-Portfolio/",
+    },
+    {
+      name: "Weather Dashboard",
+      description:
+        "A weather dashboard that allows the user to search for a city and get the current weather conditions for that city.",
+      stack:
+        "Javascript, CSS, HTML, and OpenWeatherMap API",
+      caption: "Weather Dashboard",
+      github: "https://github.com/BlinkingHeimdall/weather-dashboard",
+      deployment: "https://blinkingheimdall.github.io/weather-dashboard/",
     },
   ];
 

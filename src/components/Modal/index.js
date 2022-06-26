@@ -14,7 +14,6 @@ const Modal = ({ onClose, currentPhoto }) => {
         /> */}
         <p>{description}</p>
         <p>STACK/DEPENDENCIES - {stack}</p>
-        <p>MY ROLE - {role}</p>
         <a
           className="modal-button"
           target="_blank"

@@ -31,7 +31,7 @@ const Footer = () => {
           <li>
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/jason-adams-05697111b/"
+              href="www.linkedin.com/in/jason-adams-05697111b"
               rel="noreferrer"
             >
               LinkedIn

@@ -58,7 +58,8 @@ header nav ul li a:hover {
   text-shadow: none;
 }
 .project-row {
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 .project-img {
