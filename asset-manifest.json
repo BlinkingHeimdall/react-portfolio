@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//blinkingheimdall.github.io/react-portfolio/static/css/main.2498c02c.css",
-    "main.js": "//blinkingheimdall.github.io/react-portfolio/static/js/main.8f08dacb.js",
-    "static/js/787.43aa069f.chunk.js": "//blinkingheimdall.github.io/react-portfolio/static/js/787.43aa069f.chunk.js",
-    "static/media/sign.mp4": "//blinkingheimdall.github.io/react-portfolio/static/media/sign.d28831bc5d9eeb4a9a44.mp4",
-    "static/media/me.jpg": "//blinkingheimdall.github.io/react-portfolio/static/media/me.2613de83350c88cf42ea.jpg",
-    "index.html": "//blinkingheimdall.github.io/react-portfolio/index.html",
-    "main.2498c02c.css.map": "//blinkingheimdall.github.io/react-portfolio/static/css/main.2498c02c.css.map",
-    "main.8f08dacb.js.map": "//blinkingheimdall.github.io/react-portfolio/static/js/main.8f08dacb.js.map",
-    "787.43aa069f.chunk.js.map": "//blinkingheimdall.github.io/react-portfolio/static/js/787.43aa069f.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.70a5bfb5.css",
+    "main.js": "/react-portfolio/static/js/main.aaa39a71.js",
+    "static/js/787.43aa069f.chunk.js": "/react-portfolio/static/js/787.43aa069f.chunk.js",
+    "static/media/sign.mp4": "/react-portfolio/static/media/sign.d28831bc5d9eeb4a9a44.mp4",
+    "static/media/me.jpg": "/react-portfolio/static/media/me.2613de83350c88cf42ea.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.70a5bfb5.css.map": "/react-portfolio/static/css/main.70a5bfb5.css.map",
+    "main.aaa39a71.js.map": "/react-portfolio/static/js/main.aaa39a71.js.map",
+    "787.43aa069f.chunk.js.map": "/react-portfolio/static/js/787.43aa069f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2498c02c.css",
-    "static/js/main.8f08dacb.js"
+    "static/css/main.70a5bfb5.css",
+    "static/js/main.aaa39a71.js"
   ]
 }
