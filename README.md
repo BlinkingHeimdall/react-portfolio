@@ -1,11 +1,11 @@
 
 # React-portfolio
 
- 
+![image](https://user-images.githubusercontent.com/87791295/175846081-8cb7b81f-dad0-4412-b74b-5f9a56c62ddd.png)
 
 
 ## Description
-This is my portfolio updated using REACT. This portfolio contains my contact info and links to various projects.
+This is my portfolio updated using REACT. This portfolio contains my contact info and links to various projects. Here is the deployed [link](https://blinkingheimdall.github.io/react-portfolio/).
 
 ## Table of Contents
 
