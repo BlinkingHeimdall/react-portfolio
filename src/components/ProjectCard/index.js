@@ -62,6 +62,16 @@ const ProjectCard = () => {
       github: "https://github.com/BlinkingHeimdall/weather-dashboard",
       deployment: "https://blinkingheimdall.github.io/weather-dashboard/",
     },
+    {
+      name: "Work Day Scheduler",
+      description:
+      "A website about scheduling work days for the user. The user can add a new work day and then view all of the work days they have scheduled.",
+      stack:
+      "Javascript, CSS, HTML, and MomentJS API",
+      caption: "Work Day Scheduler",
+      github: "https://github.com/BlinkingHeimdall/work-day-scheduler",
+      deployment: "https://blinkingheimdall.github.io/work-day-scheduler/",
+    },
   ];
 
   const [isModalOpen, setIsModalOpen] = useState(false);

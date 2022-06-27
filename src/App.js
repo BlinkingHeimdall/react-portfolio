@@ -45,7 +45,7 @@ function App() {
           width: "100%",
           left: "50%",
           top: "20%",
-          height: "225%",
+          height: "205%",
           objectFit: "fill",
           transform: "translate(-50%, -50%)",
           zIndex: "-1",
