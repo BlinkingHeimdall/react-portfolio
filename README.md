@@ -8,28 +8,9 @@
 This is my portfolio updated using REACT. This portfolio contains my contact info and links to various projects.
 
 ## Table of Contents
-- [License](#license)
-- [Installation](#installation)
-- [Testing](#testing)
-- [Usage](#usage)
-- [Contributing](#contributing)
+
 - [Questions](#questions)
 
-## Installation
-~~~
-n/a
-~~~
-
-## Testing
-~~~
-n/a
-~~~
-
-## Usage
-n/a
-
-## Contributing
-n/a
 
 ## Questions
 [https://github.com/BlinkingHeimdall](https://github.com/BlinkingHeimdall)
