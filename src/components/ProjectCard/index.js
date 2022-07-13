@@ -4,7 +4,7 @@ import Modal from "../Modal/index";
 const ProjectCard = () => {
   const photos = [
     {
-      name: "Reagl",
+      name: "Regal",
       description:
         "The purpose of this project is to build an app to help people that need help taking care of themselves due to physical or mental limitations. This project will help an individual remember daily hygiene tasks check the days weather and keep track of contacts of frequently contacted people fr emergencies. This project was created for a Coding Bootcamp with the University of Utah. There are plans to develop this further perhaps with different tools. The tools user were requirements of the Bootcamp assignment.",
       stack:
