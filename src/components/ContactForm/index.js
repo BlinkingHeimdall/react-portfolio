@@ -51,7 +51,7 @@ const ContactForm = (props) => {
               className="resume-button"
               target="_blank"
               rel="noreferrer"
-              href="https://docs.google.com/document/d/1N-WI7aZiASy349yipTLyJ3Wbc96Znvmi/edit"
+              href="https://drive.google.com/file/d/1NbIXdcYDASX4GBoGcZSefhPWGjearoYn/view?usp=sharing"
             >
               RESUME 🔗
             </a>
