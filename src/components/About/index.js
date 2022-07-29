@@ -20,16 +20,13 @@ const About = (props) => {
         </p>
         <p>TECHNOLOGIES:</p>
         <ul className="stack-list">
-          <li>HTML5, CSS and JavaScript</li>
+          <li>HTML5, CSS, and JavaScript</li>
           <li>MERN</li>
           <li>SQL/NoSQL/MySQL</li>
-          <li>Handlebars.JS</li>
           <li>Bootstrap</li>
           <li>Bulma</li>
           <li>jQuery</li>
-          <li>Insomnia</li>
           <li>SPA</li>
-          <li>PWA</li>
           <li>GitHub</li>
           <li>React</li>
         </ul>
