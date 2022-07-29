@@ -14,8 +14,8 @@ const About = (props) => {
         </p>
 
         <p>
-          When I am not trying to figure out how to make interesting things on the internet, I am spending <br/>
-          time with my wife and kid. We like to play video games and travel. I am also a very avid comic<br/>
+          When I am not trying to figure out how to make interesting things on the internet, I am spending
+          time with my wife and kid. We like to play video games and travel. I am also a very avid comic
           reader (mostly Marvel) or looking for a good story. 
         </p>
         <p>TECHNOLOGIES:</p>
